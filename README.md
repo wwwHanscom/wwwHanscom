@@ -6,9 +6,9 @@ proyectos y mis intereses.
 * [Proyectos](#proyectos) 
 * [Intereses](#intereses) 
 ## Información personal 
-* Nombre: [Hans Rivas] 
-* Ocupación: [Tu ocupación] 
-* Lugar de residencia: [Tu lugar de residencia] 
+* Nombre: Hans Rivas 
+* Ocupación: Estudiante 
+* Lugar de residencia: Residencias ESPOL
 * Sitio web: [Tu sitio web] 
 ## Proyectos 
 * [Lista de tus proyectos] 
