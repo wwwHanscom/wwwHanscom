@@ -11,6 +11,9 @@ proyectos y mis intereses.
 * Lugar de residencia: Residencias ESPOL
 * Sitio web: www.hans.com
 ## Proyectos 
-* [Lista de tus proyectos] 
+* Proyecto de Programación Orientada a Objetos
+* Tareas y talleres de Programación de Sistemas
 ## Intereses 
-* [Lista de tus intereses]
+* Tecnología
+* Musica
+* Desarrollo web
