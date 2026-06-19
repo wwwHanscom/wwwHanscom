@@ -1,4 +1,4 @@
-# <p align="center">Hans Rivas</p>
+Hans Rivas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Activo-brightgreen?style=for-the-badge&logo=github" alt="Status">
@@ -6,7 +6,7 @@
 
 ---
 
-### <p align="center">👋 ¡Hola! Bienvenido.</p>
+### 👋 ¡Hola! Bienvenido.
 
 <p align="center">
   Este es mi rincón digital donde comparto mi trayectoria académica, los proyectos que voy construyendo y las tecnologías que me apasionan. ¡Siéntete libre de explorar!
@@ -60,5 +60,5 @@ Me apasiona el aprendizaje continuo y explorar cómo la tecnología impacta nues
 ---
 
 <p align="center">
-  Hecho por <a href="https://wwwhanscom.github.io/curriculum/">Hans Rivas</a>
+  © Hecho por <a href="https://wwwhanscom.github.io/curriculum/">Hans Rivas</a>
 </p>
