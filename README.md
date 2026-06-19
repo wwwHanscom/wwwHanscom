@@ -9,7 +9,7 @@ proyectos y mis intereses.
 * Nombre: Hans Rivas 
 * Ocupación: Estudiante 
 * Lugar de residencia: Residencias ESPOL
-* Sitio web: www.hans.com
+* Sitio web: https://wwwhanscom.github.io/curriculum/
 ## Proyectos 
 * Proyecto de Programación Orientada a Objetos
 * Tareas y talleres de Programación de Sistemas
